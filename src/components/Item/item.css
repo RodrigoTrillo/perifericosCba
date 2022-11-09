@@ -1,0 +1,22 @@
+.card{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    border: 2px solid #FA7921;
+    margin: 10px;
+    border-radius: 16px;
+    text-decoration: none;
+    
+}
+
+.card img {
+    width: 100%;
+    height: 60%;
+    object-fit: cover;
+    border-radius: 16px;
+}
+
+.card p{
+    color: #FA7921;
+    text-align: center;
+}

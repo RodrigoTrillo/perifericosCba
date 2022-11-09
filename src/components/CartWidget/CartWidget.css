@@ -1,0 +1,13 @@
+.CartWidget i{
+    padding: 10px;
+    font-size: 20px;
+    color: #FA7921;
+    border: #FA7921 2px solid;
+    border-radius: 50%;
+}
+
+
+.CartWidget i:hover{
+    color:#EAD637;
+    box-shadow: 0 -5px 5px  #FA7921, 0 5px 5px  #FA7921;
+}
